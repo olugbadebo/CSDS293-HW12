@@ -1,0 +1,107 @@
+[2024-12-04 13:20:34.417] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:20:34.503] INFO: Created new book:1984
+[2024-12-04 13:20:34.521] INFO: Created new book:First Book
+[2024-12-04 13:22:41.135] INFO: Created new book:First Book
+[2024-12-04 13:48:48.835] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:48:48.933] INFO: Created new book:1984
+[2024-12-04 13:48:48.950] INFO: Created new book:First Book
+[2024-12-04 13:49:33.895] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:49:33.898] INFO: Created new book:1984
+[2024-12-04 13:49:33.898] INFO: Created new book:Brave New World
+[2024-12-04 13:49:34.026] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:49:34.026] INFO: Created new book:1984
+[2024-12-04 13:49:34.027] INFO: Created new book:Brave New World
+[2024-12-04 13:49:34.032] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:49:34.032] INFO: Created new book:1984
+[2024-12-04 13:49:34.033] INFO: Created new book:Brave New World
+[2024-12-04 13:49:34.037] INFO: Created new book:The Great Gatsby
+[2024-12-04 13:49:34.038] INFO: Created new book:1984
+[2024-12-04 13:49:34.038] INFO: Created new book:Brave New World
+[2024-12-04 13:49:41.492] INFO: Created new book:Original Title
+[2024-12-04 13:49:41.498] INFO: Updated book:New Title
+[2024-12-04 13:49:41.607] INFO: Created new book:Original Title
+[2024-12-04 13:49:41.608] INFO: Marked book as inactive: Original Title
+[2024-12-04 13:49:41.613] INFO: Created new book:Original Title
+[2024-12-04 19:50:34.384] INFO: Created new book:Original Title
+[2024-12-04 19:50:34.393] INFO: Updated book:New Title
+[2024-12-04 19:50:34.569] INFO: Created new book:Original Title
+[2024-12-04 19:50:34.570] INFO: Marked book as inactive: Original Title
+[2024-12-04 19:50:34.576] INFO: Created new book:Original Title
+[2024-12-04 19:50:34.596] INFO: Created new book:The Great Gatsby
+[2024-12-04 19:50:34.596] INFO: Created new book:1984
+[2024-12-04 19:50:34.597] INFO: Created new book:Brave New World
+[2024-12-04 19:50:34.618] INFO: Created new book:The Great Gatsby
+[2024-12-04 19:50:34.619] INFO: Created new book:1984
+[2024-12-04 19:50:34.620] INFO: Created new book:Brave New World
+[2024-12-04 19:50:34.625] INFO: Created new book:The Great Gatsby
+[2024-12-04 19:50:34.626] INFO: Created new book:1984
+[2024-12-04 19:50:34.626] INFO: Created new book:Brave New World
+[2024-12-04 19:50:34.631] INFO: Created new book:The Great Gatsby
+[2024-12-04 19:50:34.631] INFO: Created new book:1984
+[2024-12-04 19:50:34.632] INFO: Created new book:Brave New World
+[2024-12-04 19:50:34.809] INFO: Created new book:The Great Gatsby
+[2024-12-04 19:50:34.814] INFO: Created new book:1984
+[2024-12-04 19:50:34.822] INFO: Created new book:First Book
+[2024-12-04 21:02:17.898] INFO: Registered new patron: Original Name
+[2024-12-04 21:02:17.904] INFO: Updated patron: New Name
+[2024-12-04 21:02:18.018] INFO: Registered new patron: Original Name
+[2024-12-04 21:02:18.020] INFO: Deactivated patron: Original Name
+[2024-12-04 21:02:18.026] INFO: Registered new patron: Original Name
+[2024-12-04 21:02:18.027] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.028] INFO: Deactivated patron: Test Patron
+[2024-12-04 21:02:18.039] INFO: Registered new patron: John Smith
+[2024-12-04 21:02:18.040] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:02:18.040] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:02:18.041] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.046] INFO: Registered new patron: John Smith
+[2024-12-04 21:02:18.047] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:02:18.047] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:02:18.075] INFO: Registered new patron: John Doe
+[2024-12-04 21:02:18.162] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.177] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.182] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.186] INFO: Registered new patron: Test Patron
+[2024-12-04 21:02:18.192] INFO: Registered new patron: First Patron
+[2024-12-04 21:02:54.172] INFO: Registered new patron: First Patron
+[2024-12-04 21:03:01.275] INFO: Registered new patron: Original Name
+[2024-12-04 21:03:01.285] INFO: Updated patron: New Name
+[2024-12-04 21:03:01.398] INFO: Registered new patron: Original Name
+[2024-12-04 21:03:01.400] INFO: Deactivated patron: Original Name
+[2024-12-04 21:03:01.410] INFO: Registered new patron: Original Name
+[2024-12-04 21:03:01.411] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.414] INFO: Deactivated patron: Test Patron
+[2024-12-04 21:03:01.422] INFO: Registered new patron: John Smith
+[2024-12-04 21:03:01.423] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:03:01.423] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:03:01.424] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.428] INFO: Registered new patron: John Smith
+[2024-12-04 21:03:01.429] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:03:01.429] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:03:01.459] INFO: Registered new patron: John Doe
+[2024-12-04 21:03:01.552] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.571] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.577] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.583] INFO: Registered new patron: Test Patron
+[2024-12-04 21:03:01.588] INFO: Registered new patron: First Patron
+[2024-12-04 21:07:24.807] INFO: Registered new patron: Original Name
+[2024-12-04 21:07:24.812] INFO: Updated patron: New Name
+[2024-12-04 21:07:24.917] INFO: Registered new patron: Original Name
+[2024-12-04 21:07:24.918] INFO: Deactivated patron: Original Name
+[2024-12-04 21:07:24.925] INFO: Registered new patron: Original Name
+[2024-12-04 21:07:24.926] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:24.928] INFO: Deactivated patron: Test Patron
+[2024-12-04 21:07:24.938] INFO: Registered new patron: John Smith
+[2024-12-04 21:07:24.938] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:07:24.939] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:07:24.940] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:24.944] INFO: Registered new patron: John Smith
+[2024-12-04 21:07:24.945] INFO: Registered new patron: Jane Doe
+[2024-12-04 21:07:24.945] INFO: Registered new patron: Bob Wilson
+[2024-12-04 21:07:24.972] INFO: Registered new patron: John Doe
+[2024-12-04 21:07:25.047] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:25.069] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:25.074] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:25.078] INFO: Registered new patron: Test Patron
+[2024-12-04 21:07:25.083] INFO: Registered new patron: First Patron
+[2024-12-04 21:16:46.683] INFO: Registered new patron: Original Name
+[2024-12-04 21:17:19.213] INFO: Registered new patron: Original Name

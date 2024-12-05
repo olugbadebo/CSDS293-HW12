@@ -1,0 +1,367 @@
+[2024-12-05 00:40:23.741] INFO: Item 40c1a06b-e011-4f1a-9d7a-4acd5ba9c230 reserved for patron John Doe
+[2024-12-05 00:40:23.801] INFO: Item 169e4724-3236-4bdd-b5e3-b366125c98d3 reserved for patron John Doe
+[2024-12-05 00:40:23.815] INFO: Item f5e6daf6-018a-42fb-a5cc-f7f1f94728da reserved for patron John Doe
+[2024-12-05 00:42:18.325] INFO: Item ebb60b42-5469-4e19-a2c3-078840911e85 reserved for patron John Doe
+[2024-12-05 00:42:18.387] INFO: Item 0fd3f4d0-e5f9-4faa-849f-524521caa0f5 reserved for patron John Doe
+[2024-12-05 00:42:18.388] INFO: Item 0fd3f4d0-e5f9-4faa-849f-524521caa0f5 reserved for patron Jane Doe
+[2024-12-05 00:42:18.413] INFO: Item fa4f1035-cadd-4014-a370-58a72d7d2ced reserved for patron John Doe
+[2024-12-05 00:42:18.414] INFO: Item fa4f1035-cadd-4014-a370-58a72d7d2ced reserved for patron Jane Doe
+[2024-12-05 00:42:18.415] INFO: Reservation a93d833e-368a-4623-92c6-c9ea6d95ec7e cancelled
+[2024-12-05 03:30:45.901] INFO: Item 9e4aaede-39c5-41dd-b605-5c1d09e46ffc reserved for patron John Doe
+[2024-12-05 03:33:12.307] INFO: Item 9e4aaede-39c5-41dd-b605-5c1d09e46ffc reserved for patron Jane Doe
+[2024-12-05 03:35:08.778] INFO: Item 6b4739c3-a138-41dc-9a36-2cd2dd9d6139 reserved for patron John Doe
+[2024-12-05 03:35:15.467] INFO: Item 6b4739c3-a138-41dc-9a36-2cd2dd9d6139 reserved for patron Jane Doe
+[2024-12-05 03:36:29.452] INFO: Item 616a8a35-270f-4c98-a5fa-cb935f08c9e3 reserved for patron John Doe
+[2024-12-05 03:36:29.461] INFO: Item 616a8a35-270f-4c98-a5fa-cb935f08c9e3 reserved for patron Jane Doe
+[2024-12-05 03:37:56.572] INFO: Item e92bdbb0-dfa2-4b49-b3e4-3c07b8a8d4ee reserved for patron John Doe
+[2024-12-05 03:37:56.583] INFO: Item e92bdbb0-dfa2-4b49-b3e4-3c07b8a8d4ee reserved for patron Jane Doe
+[2024-12-05 03:38:08.138] INFO: Item bcf47457-ab32-4047-8e81-919f6d56296f reserved for patron John Doe
+[2024-12-05 03:38:12.959] INFO: Item bcf47457-ab32-4047-8e81-919f6d56296f reserved for patron Jane Doe
+[2024-12-05 03:38:57.080] INFO: Item 708e6031-f72f-4541-8942-850f51471c2a reserved for patron John Doe
+[2024-12-05 03:39:06.687] INFO: Item 708e6031-f72f-4541-8942-850f51471c2a reserved for patron Jane Doe
+[2024-12-05 03:39:33.153] INFO: Item 5582e9f7-1a2b-495a-91a7-bae556be8270 reserved for patron John Doe
+[2024-12-05 03:40:35.397] INFO: Item 5582e9f7-1a2b-495a-91a7-bae556be8270 reserved for patron Jane Doe
+[2024-12-05 03:41:13.872] INFO: Item 2f031e9e-8fc2-4d8e-877d-cf646bb6303f reserved for patron John Doe
+[2024-12-05 03:42:22.761] INFO: Item 2f031e9e-8fc2-4d8e-877d-cf646bb6303f reserved for patron Jane Doe
+[2024-12-05 03:43:02.949] INFO: Item d2c379ff-0481-4e18-a21b-b3c2ca91567e reserved for patron John Doe
+[2024-12-05 03:43:19.117] INFO: Item d2c379ff-0481-4e18-a21b-b3c2ca91567e reserved for patron Jane Doe
+[2024-12-05 03:46:58.279] INFO: Item 2845cb0e-0176-4405-82cf-be512b19146d reserved for patron John Doe
+[2024-12-05 03:46:58.342] INFO: Item 8397de8d-79e9-4933-9e39-f6997fb3c2c0 reserved for patron John Doe
+[2024-12-05 03:46:58.342] INFO: Item 8397de8d-79e9-4933-9e39-f6997fb3c2c0 reserved for patron Jane Doe
+[2024-12-05 03:46:58.356] INFO: Reservation 3d96d5f8-6dc9-4cbd-8544-23c224a23899 cancelled
+[2024-12-05 03:47:33.142] INFO: Item 7f22502a-aed8-42c4-b3e9-86fc2c2e2428 reserved for patron John Doe
+[2024-12-05 03:47:33.142] INFO: Item 7f22502a-aed8-42c4-b3e9-86fc2c2e2428 reserved for patron Jane Doe
+[2024-12-05 03:47:44.467] INFO: Item dd2267a8-2b9d-4b50-8970-592dd134d8df reserved for patron John Doe
+[2024-12-05 03:47:44.541] INFO: Item 3358253a-54a6-48c8-870d-a26b89e56883 reserved for patron John Doe
+[2024-12-05 03:47:44.541] INFO: Item 3358253a-54a6-48c8-870d-a26b89e56883 reserved for patron Jane Doe
+[2024-12-05 03:47:44.541] INFO: Item a8819dfb-6860-47fd-b5b5-f50e2b06087d reserved for patron John Doe
+[2024-12-05 03:47:44.541] INFO: Item a8819dfb-6860-47fd-b5b5-f50e2b06087d reserved for patron Jane Doe
+[2024-12-05 03:47:44.541] INFO: Reservation f043c6f1-f3c7-400f-837c-7fa5bbcb4874 cancelled
+[2024-12-05 03:49:15.675] INFO: Item 760f58fa-c6a6-4979-847e-4178bc97041c reserved for patron John Doe
+[2024-12-05 03:49:15.675] INFO: Item 760f58fa-c6a6-4979-847e-4178bc97041c reserved for patron Jane Doe
+[2024-12-05 03:49:15.675] INFO: Reservation d6506c8d-d86c-40d4-8af1-a957dfb245a7 cancelled
+[2024-12-05 03:49:56.982] INFO: Item 7d6d0289-85f3-4ca0-9eaf-e0fe08bbed80 reserved for patron John Doe
+[2024-12-05 03:49:56.983] INFO: Item 7d6d0289-85f3-4ca0-9eaf-e0fe08bbed80 reserved for patron Jane Doe
+[2024-12-05 03:49:56.984] INFO: Reservation bc5e1b2a-48c1-445a-9cf0-dd1537a4a736 cancelled
+[2024-12-05 03:50:30.410] INFO: Item 95fdbefe-389b-4f90-b886-ce351fdb6d52 reserved for patron John Doe
+[2024-12-05 03:50:30.411] INFO: Item 95fdbefe-389b-4f90-b886-ce351fdb6d52 reserved for patron Jane Doe
+[2024-12-05 03:50:30.412] INFO: Reservation a1b000d2-d905-45cf-a916-d8e8f5e7e7e6 cancelled
+[2024-12-05 03:50:44.072] INFO: Item c1a5aa8b-3ffb-43b0-b37f-db9c3453f2fd reserved for patron John Doe
+[2024-12-05 03:51:47.837] INFO: Item c1a5aa8b-3ffb-43b0-b37f-db9c3453f2fd reserved for patron Jane Doe
+[2024-12-05 03:54:30.563] INFO: Reservation 04b9e915-4a3b-4f74-b23c-4a47257dbcf4 cancelled
+[2024-12-05 03:55:41.767] INFO: Item 4b46e7dd-1111-4244-8109-d90c68964f81 reserved for patron John Doe
+[2024-12-05 03:55:41.776] INFO: Item 4b46e7dd-1111-4244-8109-d90c68964f81 reserved for patron Jane Doe
+[2024-12-05 03:55:41.776] INFO: Reservation 59979081-4b23-4414-aa76-ad07601b08da cancelled
+[2024-12-05 03:57:59.522] INFO: Item 150c38c8-8232-422f-82cb-a7ed5188d003 reserved for patron John Doe
+[2024-12-05 03:57:59.532] INFO: Item 150c38c8-8232-422f-82cb-a7ed5188d003 reserved for patron Jane Doe
+[2024-12-05 03:57:59.533] INFO: Reservation e0c606f7-4916-4b63-9c84-6dd0286fb8cc cancelled
+[2024-12-05 03:59:02.588] INFO: Item e3a17c4a-b474-4a11-8518-3dde7dc60617 reserved for patron John Doe
+[2024-12-05 03:59:02.607] INFO: Item e3a17c4a-b474-4a11-8518-3dde7dc60617 reserved for patron Jane Doe
+[2024-12-05 03:59:02.609] INFO: Reservation 5467ee4f-82f0-468a-badf-9e7aa2ca8652 cancelled
+[2024-12-05 03:59:26.100] INFO: Item 08950710-9196-4c82-9147-526737d382da reserved for patron John Doe
+[2024-12-05 03:59:26.100] INFO: Item 08950710-9196-4c82-9147-526737d382da reserved for patron Jane Doe
+[2024-12-05 03:59:26.100] INFO: Reservation 7d903a57-d239-493c-a8c3-d1d371071cbc cancelled
+[2024-12-05 03:59:35.075] INFO: Item 0c60920c-23e5-4e0f-9cd5-52cee9c6e052 reserved for patron John Doe
+[2024-12-05 03:59:35.083] INFO: Item 0c60920c-23e5-4e0f-9cd5-52cee9c6e052 reserved for patron Jane Doe
+[2024-12-05 03:59:35.084] INFO: Reservation 09785288-3a93-4e30-b159-ba027844b2a2 cancelled
+[2024-12-05 04:07:37.769] INFO: Item 49d93d38-8555-4cde-92bc-f7817e65919b reserved for patron John Doe
+[2024-12-05 04:07:37.770] INFO: Item 49d93d38-8555-4cde-92bc-f7817e65919b reserved for patron Jane Doe
+[2024-12-05 04:07:37.770] INFO: Reservation e86514ed-22f4-4b2f-8e07-669ab5f661b0 cancelled
+[2024-12-05 04:07:59.917] INFO: Item ead6f3c7-6569-44c3-bd9d-845a206f2413 reserved for patron John Doe
+[2024-12-05 04:07:59.919] INFO: Item ead6f3c7-6569-44c3-bd9d-845a206f2413 reserved for patron Jane Doe
+[2024-12-05 04:07:59.919] INFO: Reservation ba4b8600-f3c0-41ff-9ae1-67d16e1f932e cancelled
+[2024-12-05 04:08:09.249] INFO: Item 0b655b5b-1b94-4d50-99b0-44028c6a3c11 reserved for patron John Doe
+[2024-12-05 04:08:09.316] INFO: Item 45343f2b-87e2-4fbb-ba07-2ccf2e7ddf7d reserved for patron John Doe
+[2024-12-05 04:08:09.316] INFO: Item 45343f2b-87e2-4fbb-ba07-2ccf2e7ddf7d reserved for patron Jane Doe
+[2024-12-05 04:08:09.316] INFO: Item 5a98c911-a7d9-4b8a-acf6-5af45852f275 reserved for patron John Doe
+[2024-12-05 04:08:09.316] INFO: Item 5a98c911-a7d9-4b8a-acf6-5af45852f275 reserved for patron Jane Doe
+[2024-12-05 04:08:09.332] INFO: Reservation 73f5e3e1-9c6e-4001-8a16-9c07ae657f0c cancelled
+[2024-12-05 04:09:05.672] INFO: Item b597d798-f1a2-43ec-ad3a-4a64769ba311 reserved for patron John Doe
+[2024-12-05 04:09:05.734] INFO: Item ae32f571-40df-4e62-9260-6e4670c5a008 reserved for patron John Doe
+[2024-12-05 04:09:05.735] INFO: Item ae32f571-40df-4e62-9260-6e4670c5a008 reserved for patron Jane Doe
+[2024-12-05 04:09:05.740] INFO: Item de58fe62-5178-4f61-938f-00c625009c3f reserved for patron John Doe
+[2024-12-05 04:09:05.740] INFO: Item de58fe62-5178-4f61-938f-00c625009c3f reserved for patron Jane Doe
+[2024-12-05 04:09:05.741] INFO: Reservation 2a8767f7-8b9d-4971-a8e5-c65dcd608eae cancelled
+[2024-12-05 06:55:32.173] INFO: Item 00fed34d-544b-46ac-a158-a5423e956bb4 checked out to patron John Doe
+[2024-12-05 06:55:45.624] INFO: Item 26734bf2-e6ac-4999-9aae-a61fe6d63e0c reserved for patron John Doe
+[2024-12-05 06:55:45.685] INFO: Item fc11265e-7899-4124-be4c-7df6f71cabcf reserved for patron John Doe
+[2024-12-05 06:55:45.686] INFO: Item fc11265e-7899-4124-be4c-7df6f71cabcf reserved for patron Jane Doe
+[2024-12-05 06:55:45.691] INFO: Item fa43d661-dc05-4b41-8a32-bf4b6a65599e reserved for patron John Doe
+[2024-12-05 06:55:45.691] INFO: Item fa43d661-dc05-4b41-8a32-bf4b6a65599e reserved for patron Jane Doe
+[2024-12-05 06:55:45.692] INFO: Reservation 3e560fd1-15e1-4997-a384-ebf4ac2e3985 cancelled
+[2024-12-05 06:55:45.765] INFO: Item 59a18394-6871-4fc6-b590-f6a3f5a56f3d checked out to patron John Doe
+[2024-12-05 06:55:45.808] INFO: Item 516d56d0-70a8-4199-ab5c-40add6f0f786 checked out to patron John Doe
+[2024-12-05 06:55:45.830] INFO: Item cb0d97ee-1074-4c6d-8f91-5ddbd0082d40 checked out to patron John Doe
+[2024-12-05 06:55:45.835] INFO: Item ab40046d-dee6-4caf-b96a-1d41c8e9a0aa checked out to patron John Doe
+[2024-12-05 06:55:45.840] INFO: Item e1cd4c66-0ee0-418e-8170-20e292835cc3 checked out to patron John Doe
+[2024-12-05 06:57:31.549] INFO: Item 65d7e06c-ff6b-43a3-9a63-2f9fea6ba973 reserved for patron John Doe
+[2024-12-05 06:57:31.607] INFO: Item 43534b31-1711-4a84-896f-d47b4b092229 reserved for patron John Doe
+[2024-12-05 06:57:31.607] INFO: Item 43534b31-1711-4a84-896f-d47b4b092229 reserved for patron Jane Doe
+[2024-12-05 06:57:31.615] INFO: Item 2a86603e-89fc-4de2-b231-5f41ab97b3c4 reserved for patron John Doe
+[2024-12-05 06:57:31.615] INFO: Item 2a86603e-89fc-4de2-b231-5f41ab97b3c4 reserved for patron Jane Doe
+[2024-12-05 06:57:31.616] INFO: Reservation e0c915c6-ee10-49f2-9431-6d1fb3c979b5 cancelled
+[2024-12-05 06:57:31.649] INFO: Item 14ca6126-a5b2-4816-aa1a-a9ed95da1dfc checked out to patron John Doe
+[2024-12-05 06:57:31.689] INFO: Item e4ac6908-73d9-4f74-8573-610f956ddeae checked out to patron John Doe
+[2024-12-05 06:57:31.705] INFO: Item a55a1d44-fccc-4af4-abf9-d72ad4771a71 checked out to patron John Doe
+[2024-12-05 06:57:31.710] INFO: Item 8612f36a-7f86-40b5-a001-a98e2e266955 checked out to patron John Doe
+[2024-12-05 06:57:31.716] INFO: Item 505da7dd-5f20-4924-a23b-efc0fa7ff54b checked out to patron John Doe
+[2024-12-05 06:59:24.182] INFO: Item 2fb5dbb9-f4e8-49a3-ab3d-20b2c32fea3b reserved for patron John Doe
+[2024-12-05 06:59:24.243] INFO: Item 46921c24-d83f-4a68-be16-fdc1410e2319 reserved for patron John Doe
+[2024-12-05 06:59:24.244] INFO: Item 46921c24-d83f-4a68-be16-fdc1410e2319 reserved for patron Jane Doe
+[2024-12-05 06:59:24.249] INFO: Item 7c31f2c3-ada8-427b-8cad-6dac8d102448 reserved for patron John Doe
+[2024-12-05 06:59:24.249] INFO: Item 7c31f2c3-ada8-427b-8cad-6dac8d102448 reserved for patron Jane Doe
+[2024-12-05 06:59:24.250] INFO: Reservation 24d7d717-9d88-4a57-9dee-ca3df49e9152 cancelled
+[2024-12-05 06:59:24.286] INFO: Item e7dd091b-7ee5-4e96-9aac-1a82f53ae022 checked out to patron John Doe
+[2024-12-05 06:59:24.322] INFO: Item e16b875b-6520-4357-8587-17581f95911d checked out to patron John Doe
+[2024-12-05 06:59:24.339] INFO: Item 8841b4c9-56ce-44aa-a020-224b90a7e0ec checked out to patron John Doe
+[2024-12-05 06:59:24.344] INFO: Item 9c69e3b1-c0db-4e9e-980d-0d02ea27225b checked out to patron John Doe
+[2024-12-05 06:59:24.349] INFO: Item fd77534a-d877-49c5-b1ee-c3e095fbf10f checked out to patron John Doe
+[2024-12-05 14:16:16.897] INFO: Inventory change detected for copy ID: 843fe19f-8e85-4b3f-a5f0-9e344c8d57e4, Status: AVAILABLE
+[2024-12-05 14:16:16.900] INFO: Inventory change detected for copy ID: 843fe19f-8e85-4b3f-a5f0-9e344c8d57e4, Status: AVAILABLE
+[2024-12-05 14:16:16.901] INFO: Inventory change detected for copy ID: 365c24f4-d14f-4978-9283-c4300795a9f8, Status: AVAILABLE
+[2024-12-05 14:16:16.901] INFO: Inventory change detected for copy ID: 365c24f4-d14f-4978-9283-c4300795a9f8, Status: AVAILABLE
+[2024-12-05 14:16:16.904] INFO: Inventory change detected for copy ID: 843fe19f-8e85-4b3f-a5f0-9e344c8d57e4, Status: LOST
+[2024-12-05 14:16:16.904] INFO: Inventory change detected for copy ID: 843fe19f-8e85-4b3f-a5f0-9e344c8d57e4, Status: LOST
+[2024-12-05 14:16:16.909] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: AVAILABLE
+[2024-12-05 14:16:16.909] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: AVAILABLE
+[2024-12-05 14:16:16.909] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: AVAILABLE
+[2024-12-05 14:16:16.910] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: REMOVED
+[2024-12-05 14:16:16.910] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: REMOVED
+[2024-12-05 14:16:16.910] INFO: Inventory change detected for copy ID: aaf80813-d8a1-42dc-84ca-dd1e6e9f722a, Status: REMOVED
+[2024-12-05 14:16:16.914] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: AVAILABLE
+[2024-12-05 14:16:16.915] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: AVAILABLE
+[2024-12-05 14:16:16.915] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: AVAILABLE
+[2024-12-05 14:16:16.915] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: AVAILABLE
+[2024-12-05 14:16:16.915] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: CHECKED_OUT
+[2024-12-05 14:16:16.916] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: CHECKED_OUT
+[2024-12-05 14:16:16.916] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: CHECKED_OUT
+[2024-12-05 14:16:16.916] INFO: Inventory change detected for copy ID: 0a2e828f-02c6-4454-9bce-6fc40451ca68, Status: CHECKED_OUT
+[2024-12-05 14:16:16.936] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:16.936] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:16.936] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:16.936] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:16.937] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:16.937] INFO: Inventory change detected for copy ID: fbeaa1ab-5d3b-4462-81f7-ec6d36a45819, Status: AVAILABLE
+[2024-12-05 14:16:23.439] INFO: Item 6d9fc10e-6a29-4d14-8939-282e26304c40 reserved for patron John Doe
+[2024-12-05 14:16:23.505] INFO: Item d08b4afa-54be-4403-8bcb-7822a44659ba reserved for patron John Doe
+[2024-12-05 14:16:23.505] INFO: Item d08b4afa-54be-4403-8bcb-7822a44659ba reserved for patron Jane Doe
+[2024-12-05 14:16:23.510] INFO: Item 5647b8d5-d65c-4a02-8675-c6c1b9ed1439 reserved for patron John Doe
+[2024-12-05 14:16:23.511] INFO: Item 5647b8d5-d65c-4a02-8675-c6c1b9ed1439 reserved for patron Jane Doe
+[2024-12-05 14:16:23.512] INFO: Reservation 5997fb5d-feab-4c56-83ad-b306e0dd227a cancelled
+[2024-12-05 14:16:23.611] INFO: Item 66bc776c-10e0-40ef-90ae-1f0ff3d65f19 checked out to patron John Doe
+[2024-12-05 14:16:23.663] INFO: Item 93d0a62c-730f-4b49-8972-eeb3646c8e05 checked out to patron John Doe
+[2024-12-05 14:16:23.682] INFO: Item bd300160-0a60-4ff9-b237-91740705ae3c checked out to patron John Doe
+[2024-12-05 14:16:23.696] INFO: Item 79059064-9383-4b3d-82c4-58394d1817d3 checked out to patron John Doe
+[2024-12-05 14:16:23.711] INFO: Item 242018f0-613e-4f0c-80bf-5a4dc77d692d checked out to patron John Doe
+[2024-12-05 14:38:08.214] INFO: Item returned for loan 2faa2e42-dc12-465f-a561-7db6f9f003f2
+[2024-12-05 14:38:08.249] INFO: Item returned for loan 004462d0-28c7-4390-9054-a9a706b56191
+[2024-12-05 14:39:28.674] INFO: Item returned for loan 70f54590-b2a6-4603-a966-fdb29eda3f8c
+[2024-12-05 14:39:28.774] INFO: Item returned for loan c62eb1a4-1a9d-4fe2-92f7-0e2363965b2e
+[2024-12-05 14:42:58.202] INFO: Item returned for loan 13dacd31-b174-4c45-9d4c-f76994287ab5
+[2024-12-05 14:42:58.287] INFO: Item returned for loan 44e63769-127f-47b8-a33a-fd32ac85469a
+[2024-12-05 14:44:05.788] INFO: Item returned for loan 8481ff39-1a39-4613-80e6-e5c91c215b84
+[2024-12-05 14:44:05.879] INFO: Item returned for loan a6035630-7b93-4b56-bbfe-04596ff3a57b
+[2024-12-05 14:47:24.844] INFO: Item returned for loan 2c0d03b0-146e-4aa0-b616-531d4ed24b11
+[2024-12-05 14:48:44.906] INFO: Item returned for loan 37e80486-5dfd-4909-a166-23a8933a358d
+[2024-12-05 14:49:10.235] INFO: Item returned for loan 23752fd7-55e2-46d6-a837-3a869c92d27e
+[2024-12-05 14:49:59.250] INFO: Item returned for loan 41e4327e-9ba1-4485-ae96-37c831c1cd29
+[2024-12-05 14:50:04.370] INFO: Item returned for loan 5263de19-922c-4164-98aa-afef00e60ee4
+[2024-12-05 14:51:00.511] INFO: Item returned for loan 9d97816c-7454-46c7-9071-02576e03662b
+[2024-12-05 14:51:07.935] INFO: Item returned for loan d7e833a8-3439-4b5b-bb8d-11372b5cba7d
+[2024-12-05 14:52:34.475] INFO: Item returned for loan c444806d-305a-48dc-9062-2189aad251e1
+[2024-12-05 14:56:25.016] INFO: Item returned for loan 5cfb05d4-205d-4126-a470-5fcc751bd916
+[2024-12-05 14:58:45.236] INFO: Item returned for loan 7829cbbb-c1fc-43cb-be05-1d4c51aadc16
+[2024-12-05 14:59:54.412] INFO: Created new book:The Great Gatsby
+[2024-12-05 14:59:54.523] INFO: Created new book:1984
+[2024-12-05 14:59:54.540] INFO: Created new book:First Book
+[2024-12-05 15:00:20.623] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:20.732] INFO: Created new book:1984
+[2024-12-05 15:00:20.755] INFO: Created new book:First Book
+[2024-12-05 15:00:35.633] INFO: Created new book:Original Title
+[2024-12-05 15:00:35.638] INFO: Updated book:New Title
+[2024-12-05 15:00:35.739] INFO: Created new book:Original Title
+[2024-12-05 15:00:35.740] INFO: Marked book as inactive: Original Title
+[2024-12-05 15:00:35.747] INFO: Created new book:Original Title
+[2024-12-05 15:00:35.762] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:35.762] INFO: Created new book:1984
+[2024-12-05 15:00:35.762] INFO: Created new book:Brave New World
+[2024-12-05 15:00:35.777] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:35.778] INFO: Created new book:1984
+[2024-12-05 15:00:35.778] INFO: Created new book:Brave New World
+[2024-12-05 15:00:35.782] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:35.783] INFO: Created new book:1984
+[2024-12-05 15:00:35.783] INFO: Created new book:Brave New World
+[2024-12-05 15:00:35.787] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:35.787] INFO: Created new book:1984
+[2024-12-05 15:00:35.788] INFO: Created new book:Brave New World
+[2024-12-05 15:00:35.930] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:00:35.934] INFO: Created new book:1984
+[2024-12-05 15:00:35.941] INFO: Created new book:First Book
+[2024-12-05 15:00:47.728] INFO: Inventory change detected for copy ID: a5f6b897-7147-4bc5-b949-0bdeeb401a97, Status: AVAILABLE
+[2024-12-05 15:00:47.730] INFO: Inventory change detected for copy ID: a5f6b897-7147-4bc5-b949-0bdeeb401a97, Status: AVAILABLE
+[2024-12-05 15:00:47.731] INFO: Inventory change detected for copy ID: cf08d533-8f3e-43ea-91b5-bd5181748ec9, Status: AVAILABLE
+[2024-12-05 15:00:47.731] INFO: Inventory change detected for copy ID: cf08d533-8f3e-43ea-91b5-bd5181748ec9, Status: AVAILABLE
+[2024-12-05 15:00:47.733] INFO: Inventory change detected for copy ID: a5f6b897-7147-4bc5-b949-0bdeeb401a97, Status: LOST
+[2024-12-05 15:00:47.734] INFO: Inventory change detected for copy ID: a5f6b897-7147-4bc5-b949-0bdeeb401a97, Status: LOST
+[2024-12-05 15:00:47.740] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: AVAILABLE
+[2024-12-05 15:00:47.741] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: AVAILABLE
+[2024-12-05 15:00:47.741] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: AVAILABLE
+[2024-12-05 15:00:47.741] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: REMOVED
+[2024-12-05 15:00:47.741] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: REMOVED
+[2024-12-05 15:00:47.741] INFO: Inventory change detected for copy ID: 76596809-9042-42b2-850a-90d1b1c8c49b, Status: REMOVED
+[2024-12-05 15:00:47.747] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: AVAILABLE
+[2024-12-05 15:00:47.747] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: AVAILABLE
+[2024-12-05 15:00:47.748] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: AVAILABLE
+[2024-12-05 15:00:47.748] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: AVAILABLE
+[2024-12-05 15:00:47.748] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: CHECKED_OUT
+[2024-12-05 15:00:47.748] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: CHECKED_OUT
+[2024-12-05 15:00:47.749] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: CHECKED_OUT
+[2024-12-05 15:00:47.749] INFO: Inventory change detected for copy ID: cd0e2b31-ed22-431f-bb53-e6f852129cab, Status: CHECKED_OUT
+[2024-12-05 15:00:47.768] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:00:47.768] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:00:47.769] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:00:47.769] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:00:47.769] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:00:47.769] INFO: Inventory change detected for copy ID: 873437d5-9219-44f7-8743-d6339055500a, Status: AVAILABLE
+[2024-12-05 15:01:10.973] INFO: Item 9f849c7c-5c16-4376-af61-0d21f9b7b084 reserved for patron John Doe
+[2024-12-05 15:01:11.035] INFO: Item 3a820763-a3b2-4197-9a0c-b6c075b5b846 reserved for patron John Doe
+[2024-12-05 15:01:11.035] INFO: Item 3a820763-a3b2-4197-9a0c-b6c075b5b846 reserved for patron Jane Doe
+[2024-12-05 15:01:11.041] INFO: Item 55f891f8-a2ae-4231-a752-dbcae80b89e3 reserved for patron John Doe
+[2024-12-05 15:01:11.041] INFO: Item 55f891f8-a2ae-4231-a752-dbcae80b89e3 reserved for patron Jane Doe
+[2024-12-05 15:01:11.042] INFO: Reservation 49c218a2-b383-4a98-955e-5f0cf0d4424a cancelled
+[2024-12-05 15:01:11.058] INFO: Item returned for loan 5be2cf02-7714-4089-aa3a-e8e8f210fcf5
+[2024-12-05 15:01:11.064] INFO: Item returned for loan c6f42d4e-2c13-4bea-950d-f34409b3a9cc
+[2024-12-05 15:01:11.078] INFO: Item 4396a88b-c8ac-4a68-8a03-64e302c19a7b checked out to patron John Doe
+[2024-12-05 15:01:11.117] INFO: Item 7016f27d-e798-41a4-857c-44b3980be686 checked out to patron John Doe
+[2024-12-05 15:01:11.133] INFO: Item a8f192f0-c96d-4a08-a5b7-c3238b36bdb6 checked out to patron John Doe
+[2024-12-05 15:01:11.138] INFO: Item bc197e8e-01e7-45b5-bbc9-485a5cb5606d checked out to patron John Doe
+[2024-12-05 15:01:11.143] INFO: Item 29ceb4f8-1898-48dd-8dbd-4cfb927a6060 checked out to patron John Doe
+[2024-12-05 15:01:22.802] INFO: Registered new patron: Original Name
+[2024-12-05 15:01:22.808] INFO: Updated patron: New Name
+[2024-12-05 15:01:22.913] INFO: Registered new patron: Original Name
+[2024-12-05 15:01:22.915] INFO: Deactivated patron: Original Name
+[2024-12-05 15:01:22.920] INFO: Registered new patron: Original Name
+[2024-12-05 15:01:22.933] INFO: Registered new patron: Original Name
+[2024-12-05 15:01:22.934] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:22.935] INFO: Deactivated patron: Test Patron
+[2024-12-05 15:01:22.943] INFO: Registered new patron: John Smith
+[2024-12-05 15:01:22.944] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:01:22.945] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:01:22.946] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:22.950] INFO: Registered new patron: John Smith
+[2024-12-05 15:01:22.950] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:01:22.951] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:01:22.972] INFO: Registered new patron: John Doe
+[2024-12-05 15:01:23.045] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:23.058] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:23.061] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:23.065] INFO: Registered new patron: Test Patron
+[2024-12-05 15:01:23.069] INFO: Registered new patron: First Patron
+[2024-12-05 16:33:15.711] INFO: Created new book:1988
+[2024-12-05 16:35:00.137] INFO: Updated book:1988
+[2024-12-05 16:42:44.040] INFO: Created new book:1988
+[2024-12-05 16:43:27.776] INFO: Updated book:1988
+[2024-12-05 16:46:25.387] INFO: Created new book:asas
+[2024-12-05 16:48:56.389] INFO: Created new book:wewewew
+[2024-12-05 16:49:14.123] INFO: Marked book as inactive: wewewew
+[2024-12-05 15:10:22.647] INFO: Created new book:Original Title
+[2024-12-05 15:10:22.655] INFO: Updated book:New Title
+[2024-12-05 15:10:22.701] INFO: Created new book:Original Title
+[2024-12-05 15:10:22.702] INFO: Marked book as inactive: Original Title
+[2024-12-05 15:10:22.706] INFO: Created new book:Original Title
+[2024-12-05 15:10:22.714] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:10:22.714] INFO: Created new book:1984
+[2024-12-05 15:10:22.714] INFO: Created new book:Brave New World
+[2024-12-05 15:10:22.724] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:10:22.724] INFO: Created new book:1984
+[2024-12-05 15:10:22.724] INFO: Created new book:Brave New World
+[2024-12-05 15:10:22.725] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:10:22.725] INFO: Created new book:1984
+[2024-12-05 15:10:22.725] INFO: Created new book:Brave New World
+[2024-12-05 15:10:22.727] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:10:22.727] INFO: Created new book:1984
+[2024-12-05 15:10:22.727] INFO: Created new book:Brave New World
+[2024-12-05 15:10:22.796] INFO: Created new book:The Great Gatsby
+[2024-12-05 15:10:22.799] INFO: Created new book:1984
+[2024-12-05 15:10:22.802] INFO: Created new book:First Book
+[2024-12-05 15:10:34.355] INFO: Inventory change detected for copy ID: 82ad5b35-fa5e-41bc-b00d-482ac0db8d9b, Status: AVAILABLE
+[2024-12-05 15:10:34.363] INFO: Inventory change detected for copy ID: 82ad5b35-fa5e-41bc-b00d-482ac0db8d9b, Status: AVAILABLE
+[2024-12-05 15:10:34.363] INFO: Inventory change detected for copy ID: 05115816-cf78-4487-b80d-9310db6c2a77, Status: AVAILABLE
+[2024-12-05 15:10:34.363] INFO: Inventory change detected for copy ID: 05115816-cf78-4487-b80d-9310db6c2a77, Status: AVAILABLE
+[2024-12-05 15:10:34.365] INFO: Inventory change detected for copy ID: 82ad5b35-fa5e-41bc-b00d-482ac0db8d9b, Status: LOST
+[2024-12-05 15:10:34.365] INFO: Inventory change detected for copy ID: 82ad5b35-fa5e-41bc-b00d-482ac0db8d9b, Status: LOST
+[2024-12-05 15:10:34.368] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: AVAILABLE
+[2024-12-05 15:10:34.368] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: AVAILABLE
+[2024-12-05 15:10:34.368] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: AVAILABLE
+[2024-12-05 15:10:34.368] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: REMOVED
+[2024-12-05 15:10:34.368] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: REMOVED
+[2024-12-05 15:10:34.369] INFO: Inventory change detected for copy ID: e014f097-aa23-4954-a85d-fbe5fd713fe1, Status: REMOVED
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: AVAILABLE
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: AVAILABLE
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: AVAILABLE
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: AVAILABLE
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: CHECKED_OUT
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: CHECKED_OUT
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: CHECKED_OUT
+[2024-12-05 15:10:34.372] INFO: Inventory change detected for copy ID: 07818f41-a92d-490b-8b92-ba52506a88e9, Status: CHECKED_OUT
+[2024-12-05 15:10:34.381] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:34.381] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:34.382] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:34.382] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:34.382] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:34.382] INFO: Inventory change detected for copy ID: f007b733-283a-4d67-aa8d-95ec3498c31c, Status: AVAILABLE
+[2024-12-05 15:10:42.866] INFO: Item 6f917114-ac99-4902-9f36-d6ea842ce034 reserved for patron John Doe
+[2024-12-05 15:10:42.915] INFO: Item 2d67761b-d9df-411c-8387-7244932f5ddd reserved for patron John Doe
+[2024-12-05 15:10:42.916] INFO: Item 2d67761b-d9df-411c-8387-7244932f5ddd reserved for patron Jane Doe
+[2024-12-05 15:10:42.921] INFO: Item bc329b96-1fb3-4f32-97aa-99ef7f1a11cb reserved for patron John Doe
+[2024-12-05 15:10:42.922] INFO: Item bc329b96-1fb3-4f32-97aa-99ef7f1a11cb reserved for patron Jane Doe
+[2024-12-05 15:10:42.923] INFO: Reservation d91df3a9-a574-486f-8dd6-e3ea7dda8729 cancelled
+[2024-12-05 15:10:42.941] INFO: Item returned for loan 42b18119-a58a-48ec-963f-13c2b98125e1
+[2024-12-05 15:10:42.948] INFO: Item returned for loan d13a8966-7e8a-464b-b458-fbeae11cf89d
+[2024-12-05 15:10:42.959] INFO: Item 54f5d933-e3f8-4c1a-92b9-14ca23ede915 checked out to patron John Doe
+[2024-12-05 15:10:43.001] INFO: Item 454d0e32-6e0e-4f4d-8f4b-e6ad60cb73cc checked out to patron John Doe
+[2024-12-05 15:10:43.009] INFO: Item 2f8283cb-b34c-4584-8011-efd91e45ef6f checked out to patron John Doe
+[2024-12-05 15:10:43.016] INFO: Item 54a26182-b5df-46e2-8085-456d1d814438 checked out to patron John Doe
+[2024-12-05 15:10:43.022] INFO: Item 3b6b9806-b2e7-4f4f-bc59-8fe68994d701 checked out to patron John Doe
+[2024-12-05 15:10:57.178] INFO: Registered new patron: Original Name
+[2024-12-05 15:10:57.190] INFO: Updated patron: New Name
+[2024-12-05 15:10:57.240] INFO: Registered new patron: Original Name
+[2024-12-05 15:10:57.241] INFO: Deactivated patron: Original Name
+[2024-12-05 15:10:57.246] INFO: Registered new patron: Original Name
+[2024-12-05 15:10:57.258] INFO: Registered new patron: Original Name
+[2024-12-05 15:10:57.259] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.261] INFO: Deactivated patron: Test Patron
+[2024-12-05 15:10:57.266] INFO: Registered new patron: John Smith
+[2024-12-05 15:10:57.266] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:10:57.267] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:10:57.267] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.270] INFO: Registered new patron: John Smith
+[2024-12-05 15:10:57.270] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:10:57.271] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:10:57.282] INFO: Registered new patron: John Doe
+[2024-12-05 15:10:57.316] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.322] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.326] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.328] INFO: Registered new patron: Test Patron
+[2024-12-05 15:10:57.330] INFO: Registered new patron: First Patron
+[2024-12-05 15:11:45.828] INFO: Registered new patron: Original Name
+[2024-12-05 15:11:45.841] INFO: Updated patron: New Name
+[2024-12-05 15:11:45.905] INFO: Registered new patron: Original Name
+[2024-12-05 15:11:45.907] INFO: Deactivated patron: Original Name
+[2024-12-05 15:11:45.910] INFO: Registered new patron: Original Name
+[2024-12-05 15:11:45.922] INFO: Registered new patron: Original Name
+[2024-12-05 15:11:45.923] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:45.924] INFO: Deactivated patron: Test Patron
+[2024-12-05 15:11:45.930] INFO: Registered new patron: John Smith
+[2024-12-05 15:11:45.930] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:11:45.930] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:11:45.930] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:45.932] INFO: Registered new patron: John Smith
+[2024-12-05 15:11:45.932] INFO: Registered new patron: Jane Doe
+[2024-12-05 15:11:45.933] INFO: Registered new patron: Bob Wilson
+[2024-12-05 15:11:45.946] INFO: Registered new patron: John Doe
+[2024-12-05 15:11:45.991] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:45.999] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:46.003] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:46.005] INFO: Registered new patron: Test Patron
+[2024-12-05 15:11:46.007] INFO: Registered new patron: First Patron

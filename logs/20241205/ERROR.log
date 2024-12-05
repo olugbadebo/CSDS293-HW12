@@ -1,0 +1,13 @@
+[2024-12-05 16:46:35.041] ERROR: Error retrieving book details
+Exception: Cannot invoke "java.util.List.size()" because "this.copies" is null
+	at com.debo.hw12.model.LibraryItem.getTotalCopiesCount(LibraryItem.java:47)
+	at com.debo.hw12.cli.menus.BookMenus.getBook(BookMenus.java:200)
+	at com.debo.hw12.cli.LibraryCli.handleBookOperations(LibraryCli.java:89)
+	at com.debo.hw12.cli.LibraryCli.start(LibraryCli.java:41)
+	at com.debo.hw12.LibraryManagementSystem.main(LibraryManagementSystem.java:9)
+[2024-12-05 16:52:49.145] ERROR: Error in main menu operation
+Exception: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at com.debo.hw12.cli.LibraryCli.handleBookOperations(LibraryCli.java:81)
+	at com.debo.hw12.cli.LibraryCli.start(LibraryCli.java:41)
+	at com.debo.hw12.LibraryManagementSystem.main(LibraryManagementSystem.java:9)
